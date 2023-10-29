@@ -9,10 +9,10 @@ Install Environment and Necessary Libraries
 In order to make it right see this tutorial:
 https://www.youtube.com/watch?v=QzVYnG-WaM4
 
-Install OpenCV
-Install Dlib
-Install NumPy (Python)
-Install argparse (Python)
+Install OpenCV,
+Install Dlib,
+Install NumPy (Python),
+Install argparse (Python) &
 Install imutils (Python)
 
 # Step 2 
