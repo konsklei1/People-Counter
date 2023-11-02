@@ -12,8 +12,9 @@ https://www.youtube.com/watch?v=QzVYnG-WaM4
 Install OpenCV,
 Install Dlib,
 Install NumPy (Python),
-Install argparse (Python) &
-Install imutils (Python)
+Install argparse (Python),
+Install imutils (Python) &
+Install  SciPy (Python)
 
 # Step 2 
 Download the code from this GitHub repository.
